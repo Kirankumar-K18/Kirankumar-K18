@@ -12,11 +12,11 @@ Building data-driven solutions through analytics, machine learning, and software
 
 ## About Me
 
-I am a seventh-semester **Computer Science and Engineering (Data Science)** undergraduate at **RNS Institute of Technology, Bengaluru**.
+I am a seventh-semester **Computer Science and Engineering (Data Science)** undergraduate at **RNS Institute of Technology, Bengaluru**, with a strong interest in Data Analytics, Machine Learning, Natural Language Processing, and Artificial Intelligence.
 
-I am passionate about Data Analytics, Machine Learning, Natural Language Processing, and Artificial Intelligence. I enjoy solving real-world problems through data-driven approaches and continuously improving my technical skills by developing practical projects.
+Through projects such as **EduPulse**, an academic management platform built using Django and React, and **Bias-Conscious Personality Trait Prediction from Text Using Explainable NLP Models**, I have gained practical experience in full-stack development, data analysis, and machine learning.
 
-I am currently seeking opportunities to contribute and grow as a **Data Analyst**, **Data Science**, or **Machine Learning** professional.
+I enjoy solving real-world problems through data-driven approaches and continuously strengthening my skills in Python, SQL, AI, and analytics while preparing for opportunities in Data Analytics, Data Science, and Machine Learning.
 
 ---
 
