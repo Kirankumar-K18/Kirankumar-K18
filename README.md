@@ -22,16 +22,16 @@ I enjoy solving real-world problems through data-driven approaches and continuou
 
 ## Contact
 
-**Location**
+**Location :**
 Bengaluru, Karnataka, India
 
-**Email**
+**Email :**
 [kirankumar.k1817@gmail.com](mailto:kirankumar.k1817@gmail.com)
 
-**GitHub**
+**GitHub :**
 https://github.com/Kirankumar-K18
 
-**LinkedIn**
+**LinkedIn :**
 https://www.linkedin.com/in/kirankumar-k-aa9a212a6/
 
 
